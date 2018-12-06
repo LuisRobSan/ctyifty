@@ -1,0 +1,1 @@
+print (" heroin is good ")
